@@ -89,7 +89,7 @@ export const state = () => ({
         {titulo: 'Kit pastel 20 unidades', preco: '38,00', categoria: 'Escolar', subcategoria: 'Escrita', imagem: require('~/assets/img/produtos/kit02.jpg')},
         {titulo: 'Caixa lápis grafite 144 un', preco: '130,00', categoria: 'Escolar', subcategoria: 'Escrita', imagem: require('~/assets/img/produtos/lapispreto01.jpg')},
         {titulo: 'Lápis de cor 24 cores', preco: '30,00', categoria: 'Escolar, Arte', subcategoria: 'Pintura', imagem: require('~/assets/img/produtos/lapiscor05.jpg')},
-        {titulo: 'Pinceis variados (un)', preco: '10,00', categoria: 'Arte', subcategoria: 'Pintura', imagem: require('~/assets/img/produtos/pinceis01.jpg')},
+        {titulo: 'Pincéis variados (un)', preco: '10,00', categoria: 'Arte', subcategoria: 'Pintura', imagem: require('~/assets/img/produtos/pinceis01.jpg')},
         {titulo: 'Caixa correspondência articulada', preco: '13,00', categoria: 'Escritorio', subcategoria: 'Organizacao', imagem: require('~/assets/img/produtos/organizador04.jpg')},
         {titulo: 'Caneta dual tip 10 cores', preco: '12,50', categoria: 'Escolar, Arte', subcategoria: 'Escrita', imagem: require('~/assets/img/produtos/brush05.jpg')},
         {titulo: 'Caderno univ. Teen Titans 10 matérias', preco: '16,00', categoria: 'Escolar', subcategoria: 'Caderno', imagem: require('~/assets/img/produtos/caderno07.jpg')},

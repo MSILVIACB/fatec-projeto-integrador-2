@@ -2,12 +2,12 @@ export default{
 
     school:'Escolar',
     office:'Escritório',
-    artAndPainting:'Arte & pintura',
+    artAndPainting:'Arte & Pintura',
     contact:'Contato',
 
     schoolSupplies:'Materiais escolares',
-    officeSupplies:'Suprimentos para escritório',  
-    
+    officeSupplies:'Suprimentos para escritório',
+
     showingAllProductsIn:'Mostrando todos os produtos em',
 
     allCategories:'Todas as categorias',
@@ -20,13 +20,13 @@ export default{
     stationaryStore:'Papelaria',
     painting:'Pintura',
     plannersAndAppointmentBook:'Planners e agendas',
-    
+
     romapelAllRights:'Romapel® Todos os direitos reservados',
-    
+
     lastAddProducts:'últimos produtos adicionados',
 
     highlights:'Destaques',
-    
+
     paymentMethods:'Metodos de pagamento',
     info:'Informação',
     attendance:'Atendimento',
