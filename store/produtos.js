@@ -71,7 +71,7 @@ export const state = () => ({
         {titulo: 'Caderno de cartografia', preco: '12,00', categoria: 'Escolar, Arte', subcategoria: 'Caderno', imagem: require('~/assets/img/produtos/cartografia01.jpg')},
         {titulo: 'Caderno univ. Summer 10 matérias', preco: '13,00', categoria: 'Escolar', subcategoria: 'Caderno', imagem: require('~/assets/img/produtos/caderno03.jpg')},
         {titulo: 'Caderno de desenho Summer', preco: '15,00', categoria: 'Escolar', subcategoria: 'Caderno', imagem: require('~/assets/img/produtos/desenho04.jpg')},
-        {titulo: 'Folha EVA glitter', prneoneco: '2,80', categoria: 'Escolar', subcategoria: 'Papel', imagem: require('~/assets/img/produtos/eva02.jpg')},
+        {titulo: 'Folha EVA glitter', preco: '2,80', categoria: 'Escolar', subcategoria: 'Papel', imagem: require('~/assets/img/produtos/eva02.jpg')},
         {titulo: 'Aquarela', preco: '25,00', categoria: 'Arte', subcategoria: 'Pintura', imagem: require('~/assets/img/produtos/aquarela01.jpg')},
         {titulo: 'Tinta guache 12 cores', preco: '18,00', categoria: 'Escolar, Arte', subcategoria: 'Pintura', imagem: require('~/assets/img/produtos/tinta01.jpg')},
         {titulo: 'Lápis de cor 12 cores + 6 cores neon', preco: '24,00', categoria: 'Escolar, Arte', subcategoria: 'Pintura', imagem: require('~/assets/img/produtos/lapiscor01.jpg')},
